@@ -13,7 +13,7 @@
 				<th>Mã SP</th>
 				<th>Tên SP</th>
 				<th>Đơn Vị</th>
-				<th>Giá Bán</th>
+				<th>Giá Bán     </th>
 			</tr>
 			<?php
 			foreach ($sanpham as $sp)
